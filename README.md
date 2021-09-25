@@ -21,7 +21,7 @@
 
 
 # Snapshot
-[](./image/demo.png)
+![](./image/demo.png)
 
 
 
